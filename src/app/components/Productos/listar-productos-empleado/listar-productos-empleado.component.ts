@@ -51,7 +51,7 @@ export class ListarProductosEmpleadoComponent {
 
   idVentaActual: number | null = null;
 
-  /* RECUPEAR EL NOMBRE Y EL USUARIO id */
+  /* RECUPEAR EL NOMBRE Y EL USUARIO ID */
   usuario_id: number = 0; // Agregar propiedad para el ID del usuario
   nombre_usuario: string = '';
   apellido: string = '';
